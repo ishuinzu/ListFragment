@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List Fragment Demo</string>
+
+    <string-array name="Users">
+        <item>Inzmam</item>
+        <item>Rashid</item>
+        <item>Danish</item>
+        <item>Abbass</item>
+        <item>Ahsan</item>
+        <item>Catto</item>
+        <item>Ehtisham</item>
+        <item>Khan</item>
+        <item>Imran</item>
+        <item>Maddam</item>
+        <item>Hussain</item>
+        <item>Arsalan</item>
+        <item>Saleem</item>
+        <item>Waleed</item>
+        <item>Abu Sufyan</item>
+    </string-array>
+</resources>
